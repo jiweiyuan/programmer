@@ -1,4 +1,4 @@
-# frontend
+# [frontend](https://github.com/jiweiyuan/frontend)
 
 
 ### 介绍
@@ -76,3 +76,4 @@
 - [如何向面试官提问](./ask/how-to-ask.md)
 - [向面试官提问的问题](./ask/question-to-ask.md)
 - [需要了解的List](./ask/must-kown-list.md)
+- [一些个人原则](./ask/principles.md)
