@@ -68,22 +68,4 @@
 - [谈一谈Webpack](./engineer/what-is-webpack.md)
 - [谈一谈热更新](./engineer/what-is-hot-replace.md)
 
-#### [AboutMe](./me)
-
-- [自我介绍](./me/introduce-myself.md)
-- [自己是如何学习的](./how-to-learn.md)
-- [自己的职业规划](./my-job-plan.md)
-- [为何换工作](./why-change-job.md)
-
-#### [Project](./project)
-
-- [介绍一下你做的党建项目](./introduce-dangjian-project.md)
-
-#### [AskQuestion](./ask)
-
-- [如何向面试官提问](./ask/how-to-ask.md)
-- [向面试官提问的问题](./ask/question-to-ask.md)
-- [需要了解的List](./ask/must-kown-list.md)
-- [一些个人原则](./ask/principles.md)
-
 #### [Interview](./interview/index.md)
