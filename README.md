@@ -3,7 +3,14 @@
 
 ### 介绍
 
-前端基础概念解析
+前端技术研讨
+
+### 研讨会
+
+- [研讨会日程表](./seminar/schedule.md)
+- [研讨会主题](./seminar/todo.md)
+- [研讨会介绍](./seminar/introduction.md)
+- [参与人员](./seminar/people.md)
 
 ### 目录
 
