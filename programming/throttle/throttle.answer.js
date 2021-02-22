@@ -12,7 +12,7 @@
 
 function throttle(fn, wait) {
     let previous = 0
-    return function() {
+    return function()　{
         let contex = this
         let args = arguments
 
