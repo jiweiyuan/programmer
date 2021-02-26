@@ -1,12 +1,9 @@
-
-private Stack<StackFrame> stack = new Stack<StackFrame>();
-
-public class StackFrame {
+public class Context {
     // ...
-    StackFrame parentFrame = null;
+    Context parent = null;
 
     // 作用域中的所有变量
-    VariableObject valueContainer = null;
+    VariableObject vo = null;
 }
 
 public class VariableObject {
@@ -16,26 +13,26 @@ public class VariableObject {
 
 
 
-// Scope implementation
+// Context Stack implementation
+private Stack<Context> ECStack = new Stack<Context>();
 
 // When entry if block:
-StackFrame myIfFrame = new StackFrame();
-stack.push(myIfFrame);
+Context iFContext = new StackFrame();
+stack.push(iFContext);
 
 
 // When exit if block
-stack.pop();
+ECStack.pop();
 
 
 // Read a variable by `variableName`
-
-StackFrame f = stack.peek();
-VariableObject valueContainer = null;
-while (f != null) {
-    valueContainer = f.valueContainer;
-    if (Object value = valueContainer.get(variableName) != null)  {
+Context ctx = ECStack.peek();
+VariableObject vo = null;
+while (ctx != null) {
+    vo = ctx.vo;
+    if (Object value = vo.get(variableName) != null)  {
         return value;
     }
-    f = f.parentFrame; // scope chain
+    ctx = ctx.parent; // scope chain
 }
 // Reference error
