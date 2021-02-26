@@ -3,8 +3,6 @@
  * https://github.com/mqyqingfeng/Blog/issues/22
  * 
  * 对于一些频繁触发的事件
- * 防抖的应用场景：
- * 搜索框网络请求防抖。
  */
 
 
@@ -44,6 +42,36 @@ function debounce(fn, wait, immediate) {
     }
 }
 
+// 
+
+function debounce_cancel(fn, wait, immediate) {
+    let timeout, result
+    function debounced() {
+        let contex = this
+        let args = arguments
+        if(timeout) clearTimeout(timeout)
+        if(immediate) {
+            // 没有定时器， 立即执行
+            let callNow = !timeout
+            timeout = setTimeout(function() {
+                timeout = null
+            }, wait)
+            if(callNow) result =  fn.apply(contex, args)
+        } else {
+            timeout = setTimeout(function() {
+                fn.apply(contex, args)
+            }, wait)
+        }
+        return result
+    }
+    debounced.cancle = function() {
+        clearTimeout(timeout)
+        timeout = null
+    }
+    return debounced
+}
+
+// Note: setTimeout 返回值
 
 var timeout = setTimeout(function(){
     console.log(1000)
