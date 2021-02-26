@@ -3,6 +3,8 @@
  * https://github.com/mqyqingfeng/Blog/issues/22
  * 
  * 对于一些频繁触发的事件
+ * 防抖的应用场景：
+ * 搜索框网络请求防抖。
  */
 
 
