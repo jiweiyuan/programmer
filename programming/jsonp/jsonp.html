@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JSONP</title>
+</head>
+<body>
+    <script>
+        window.onload = () => {
+            loadData()
+        }
+
+        function loadData() {
+            let script = document.createElement('script');
+            script.src = 'https://api.asilu.com/bg/?callback=jsonpBgCallback';
+            document.body.appendChild(script);
+
+            script.onload = (e) => {
+                e.currentTarget.remove();
+            }
+            script.onerror = () => {
+                alert('fail')
+            }
+        }
+
+        function jsonpBgCallback(data) {
+            if (!data) return
+
+            let images = data.images
+            let imagesContainer = document.createElement('div')
+            images.forEach((image) => {
+                let img = document.createElement('img')
+                img.src = image.url
+                imagesContainer.appendChild(img)
+            })
+            document.body.appendChild(imagesContainer)
+        }
+    </script>
+</body>
+</html>
