@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="">
+</head>
+
+<body>
+  <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+  <div id="counter"></div>
+  <button id="btn1">Change location</button>
+  <button id="btn2">Change hash</button>
+  <button id="forward">forward 1</button>
+  <button id="back">back 1</button>
+  <button id="btn3">pushState</button>
+  <button id="btn4">replaceState</button>
+
+  <script>
+    let counter = document.getElementById('counter')
+    function showCounter() {
+      counter.innerHTML = `History Length: ${window.history.length}`
+    }
+
+    function changeWindowLocation() {
+      window.location = './hash.html'
+    }
+    function changeHash() {
+      let random = Math.floor(Math.random() * 10000)
+      window.location.hash = "#" + random
+      showCounter()
+    }
+    function pushState() {
+      let number = Math.floor(Math.random() * 10000)
+      window.history.pushState({ name: 'Push', number }, null, 'push' + number)
+    }
+    function replaceState() {
+      window.history.pushState({ name: 'Replace' }, null, 'replace')
+    }
+    window.addEventListener('DOMContentLoaded', showCounter)
+    btn1.addEventListener('click', changeWindowLocation)
+    btn2.addEventListener('click', changeHash)
+
+    // The popstate event of the Window interface is fired when the active history entry changes while the user navigates the session history. 
+    // Note that just calling history.pushState() or history.replaceState() won't trigger a popstate event. The popstate event will be triggered by doing a browser action such as a click on the back or forward button (or calling history.back() or history.forward() in JavaScript).
+
+    // history.pushState会增加历史记录的条目，但是不会触发 hashchange和 popstate；
+    // hashchange也可以增加历史记录的条目，但是它却可以触发 popstate
+
+    forward.addEventListener('click', () => {
+      window.history.forward()
+      showCounter()
+    })
+
+    back.addEventListener('click', () => {
+      window.history.back()
+      showCounter()
+    })
+    btn3.addEventListener('click', () => {
+      pushState()
+      showCounter()
+    })
+    btn4.addEventListener('click', () => {
+      replaceState()
+      showCounter()
+    })
+
+    window.addEventListener('popstate', (event) => {
+      console.log(event)
+    })
+  </script>
+</body>
+
+</html>
