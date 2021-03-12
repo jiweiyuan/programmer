@@ -1,7 +1,7 @@
 # JavaScript
 
-- [ ] 作用域 作用域链 执行上下文 变量对象
-- [ ] this bind call apply
+- [x] 作用域 作用域链 执行上下文 变量对象
+- [x] this bind call apply
 - [ ] Event Loop 事件循环机制
 - [ ] new 原型链 继承实现
 - [ ] oop 面向对象编程 class
@@ -9,6 +9,7 @@
 - [ ] design pattern 设计模式（JS）
 - [ ] promise
 - [ ] typescript
+- [ ] 模块化
 
 #### HTML
 - [ ] HTML 5 Form, UI 组件库中的Form

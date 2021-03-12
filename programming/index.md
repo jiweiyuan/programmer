@@ -27,3 +27,4 @@
 
 - [add(1)(2(3)) curry化方法]
 - [extends 实现一个函数，模拟ES6继承的实现]
+- [地图漫步](./walk-map/walk-map.js)
