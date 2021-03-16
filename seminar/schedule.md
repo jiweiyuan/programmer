@@ -9,4 +9,5 @@
 | YuanJiwei |       前端路由        | 2021/03/12 21:00 |  ✅   |      |
 |   Pylon   |  跨域 (CORS) 和 CSRF  | 2021/03/14 21:00 |  ✅   |      |
 |   Pylon   |     HTTP Caching      | 2021/03/19 21:00 |  ❌   |      |
-| YuanJiwei |      前端模块化       | 2021/03/21 21:00 |  ❌   |      |
+| YuanJiwei |    模块化：思想与原则  | 2021/03/21 21:00 |  ❌   |      |
+| YuanJiwei |JavaScript模块化：技术演进与实践模式 | 待定 |  ❌   |      |

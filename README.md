@@ -78,3 +78,9 @@
 - [谈一谈热更新](./engineer/what-is-hot-replace.md)
 
 #### [Interview](./interview/index.md)
+
+## 主要参考资料
+
+- https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet
+- https://item.jd.com/12985664.html
+- https://github.com/mqyqingfeng/Blog
