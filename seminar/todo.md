@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # JavaScript
 
 - [x] 作用域 作用域链 执行上下文 变量对象
