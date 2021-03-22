@@ -13,7 +13,7 @@ marp: true
 - [ ] design pattern 设计模式（JS）
 - [x] promise
 - [ ] typescript
-- [ ] 模块化
+- [x] 模块化
 
 #### HTML
 - [ ] HTML 5 Form, UI 组件库中的Form
@@ -31,6 +31,7 @@ marp: true
 - [x] CSRF 前端安全解析
 - [ ] XSS
 - [ ] HTTPS
+- [x] HTTP Caching
 
 #### Browser
 - [ ] 输入一个 URL 后发生的事情（页面解析部分）
