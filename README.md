@@ -61,7 +61,6 @@
 #### [NetWork](./network)
 
 - [在浏览器输入url后发生什么](./network/what-happen-after-enter-a-url.md)
-- [HTTP 状态码](./network/http-status-code.md)
 - [XSS CSRF]
 - [HTTPS]
 - [HTTP 2.0]
