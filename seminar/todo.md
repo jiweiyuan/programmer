@@ -1,8 +1,13 @@
----
-marp: true
----
+# Topic TO DO
 
-# JavaScript
+## Now
+
+1. Vue3
+2. vue-next source code
+
+## Interest
+
+#### JavaScript
 
 - [x] 作用域 作用域链 执行上下文 变量对象
 - [x] this bind call apply
@@ -16,10 +21,12 @@ marp: true
 - [x] 模块化
 
 #### HTML
+
 - [ ] HTML 5 Form, UI 组件库中的Form
 - [ ] HTML 5 Table, UI 组件库中的Table
 
 #### CSS
+
 - [ ] 经典布局方案、业务常用布局方案
 - [ ] 业务常用动画方案
 
@@ -34,28 +41,33 @@ marp: true
 - [x] HTTP Caching
 
 #### Browser
+
 - [ ] 输入一个 URL 后发生的事情（页面解析部分）
 - [x] 前端导航/路由模式（hash history 页面内导航）
 
-
 #### Vue
-- [ ] Vue 组件通信机制
+
+- [ ] vuex 源码
+- [ ] Vue3 实践
+- [ ] vue-next 源码
+
 
 #### React
+- [ ] React 实践
+
 
 #### Engineer
 
 #### System Design
+
 - [ ] 前端权限设计（路由权限、按钮权限、接口权限）
 - [ ] 前端登陆方案 解析研究
 - [ ] 表单生成器，拖拽生成业务表单。
 
+#### Node
+
+- [ ] Express 实践
+
 
 #### Project
 
-#### 代码手写
-
-- [x] bind apply call
-- [ ] new 
-- [x] Promise
-- [x] debounce throttle
