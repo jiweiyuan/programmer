@@ -85,8 +85,8 @@
 
 ## 进一步了解
 
-- [研讨会日程表](./seminar/schedule.md)
-- [研讨会主题](./seminar/todo.md)
+- [技术闲聊安排](./seminar/small-talk-list.md)
+- [技术分享安排](./seminar/technology-share-list.md)
 - [参与人员](./seminar/people.md)
 - [历史记录](./history/README.md)
 
