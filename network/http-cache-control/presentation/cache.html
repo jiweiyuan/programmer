@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>HTTP Caching</title>
+
+    <link rel="stylesheet" href="lib/reset.css">
+    <link rel="stylesheet" href="lib/reveal.css">
+    <link rel="stylesheet" href="theme/sky.css" id="theme">
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+    <style type="text/css">
+        .reveal .slides > section > section { text-align:left; }
+        .reveal p {
+            text-align: left;
+        }
+        .reveal ul {
+            display: block;
+        }
+        .reveal ol {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+        <section data-markdown="http-caching.md"
+                 data-separator="^\r?\n---\r?\n$"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:"
+                 data-charset="utf-8">
+        </section>
+    </div>
+</div>
+
+<script src="lib/reveal.js"></script>
+<script src="plugin/notes/notes.js"></script>
+<script src="plugin/markdown/markdown.js"></script>
+<script src="plugin/highlight/highlight.js"></script>
+<script>
+    // More info about initialization & config:
+    // - https://revealjs.com/initialization/
+    // - https://revealjs.com/config/
+    Reveal.initialize({
+        hash: true,
+        center: false,
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+    });
+</script>
+</body>
+</html>
