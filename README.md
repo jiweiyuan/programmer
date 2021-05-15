@@ -25,7 +25,6 @@
 | react hook 分享           |  明月       |  2021-05-28 |
 
 
-
 ## 活动兴趣
 
 未来可能安排的分享
@@ -67,3 +66,6 @@
 ## 进一步了解
 
 - [缘起](./seminar/introduction.md)
+- [人员](./seminar/people.md)
+- [主题](./seminar/todo.md)
+- [历史](./seminar/history.md)
