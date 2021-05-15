@@ -34,8 +34,8 @@
 | vue use| 袁继伟 |
 | vue3/reactivity 源码  | 袁继伟 Pylon|
 | vue3/runtime-core 源码 | 袁继伟 |
-| HTPP2 | Pylon|
-| JS RunTime |
+| HTTP2 | Pylon|
+| JS Runtime |
 | severless |
 
 
