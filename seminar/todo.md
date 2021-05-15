@@ -1,24 +1,13 @@
 # Topic TO DO
 
-## Now
-
-1. Vue3
-2. vue-next source code
-
-## Interest
+收集一些感兴趣的分享主题
 
 #### JavaScript
 
-- [x] 作用域 作用域链 执行上下文 变量对象
-- [x] this bind call apply
-- [ ] Event Loop 事件循环机制
-- [ ] new 原型链 继承实现
-- [ ] oop 面向对象编程 class
 - [ ] fp 函数式编程
 - [ ] design pattern 设计模式（JS）
-- [x] promise
 - [ ] typescript
-- [x] 模块化
+- [ ] JavaScript模块化
 
 #### HTML
 
@@ -33,19 +22,15 @@
 #### Network
 
 - [ ] 浏览器缓存业务应用
-- [x] 跨域问题的处理
 - [ ] 输入一个 URL 后发生的事情（网络请求部分）
-- [x] CSRF 前端安全解析
 - [ ] XSS
 - [ ] HTTPS
-- [x] HTTP Caching
 - [ ] WebSocket
 - [ ] Axios 源码
 
 #### Browser
 
 - [ ] 输入一个 URL 后发生的事情（页面解析部分）
-- [x] 前端导航/路由模式（hash history 页面内导航）
 
 #### Vue
 
@@ -55,6 +40,7 @@
 
 
 #### React
+
 - [ ] React 实践
 
 
