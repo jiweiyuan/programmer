@@ -9,7 +9,7 @@
 
 是一个程序员技术学习社群，目前组织以前端为主的技术交流。
 
-加入标准：**至少半年内做一场技术分享或者组织一次peer活动**。
+加入标准：**半年内,至少做一场技术分享,或者组织一次peer活动**。
 
 发起分享活动，可创建一个issue链接，便于知识沉淀。
 
@@ -21,7 +21,6 @@
 即将进行的分享
 |  主题                 |  主讲人      |       时间     |
 | :------------------: | :--------: | :--------------: |
-| vuejs/jsx-next 分享      |  吃不动了     |  2021-05-21 |
 | react hook 分享           |  星光       |  2021-05-28 |
 
 
@@ -31,12 +30,14 @@
 
 |  主题                 |  感兴趣的人 |
 | :------------------: |:------: |
+| 项目工程化实践 | moonrailgun Pylon 吃不动了 袁继伟 ... |
 | vue use| 袁继伟 |
 | vue3/reactivity 源码  | 袁继伟 Pylon|
 | vue3/runtime-core 源码 | 袁继伟 |
 | HTTP2 | Pylon|
 | JS Runtime |
 | severless |
+
 
 
 ## 活动历史
@@ -49,7 +50,6 @@
 |    Vo     |     `this`  指针      | 2021/02/28 21:00 |  ✅   |      |
 |   Pylon   | Promise A+ 规范与实现 | 2021/03/07 21:00 |  ✅   |[记录](https://www.bilibili.com/video/BV1ov411b7yB)     |
 | YuanJiwei |       前端路由        | 2021/03/12 21:00 |  ✅   |      |
-| Pylon | HTTP/1.1 性能瓶颈分析 | 2021/03/28 21:00 |  ✅    |      |
 |   Pylon   |  跨域 (CORS) 和 CSRF  | 2021/03/14 21:00 |  ✅   | [记录](https://www.bilibili.com/video/BV18N411X7HX)    |
 | YuanJiwei |    模块化：思想与原则  | 2021/03/19 21:00 |  ✅  |      |
 |   Pylon   |     HTTP Caching      | 2021/03/21 21:00 |  ✅   | [记录](https://www.bilibili.com/video/BV17A411N7NG)   |
@@ -61,6 +61,7 @@
 | Pylon |  Chrome Devtools    |  2021/05/15 21:00      |    ✅    |  [记录](https://www.bilibili.com/video/BV1WN411f7yW) 
 | 桂继宏 |  设计模式的设计原则    |  2021/05/09 21:00      |    ✅    |  
 | YuanJiwei | Vue Reactivity 核心原理 |2021/05/15 21:00|  ✅  |
+|  吃不动了    |   vuejs/jsx-next 分享    |  2021-05-21 |  ✅    |  [记录](https://www.bilibili.com/video/BV18o4y1m7jD) 
 
 
 ## 进一步了解
@@ -69,3 +70,4 @@
 - [人员](./seminar/people.md)
 - [主题](./seminar/todo.md)
 - [历史](./seminar/history.md)
+- [加入](./seminar/join.md)

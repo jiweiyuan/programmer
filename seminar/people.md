@@ -14,4 +14,9 @@
 
 #### 吃不动了
 
+宁波工作， [vueComponent](https://github.com/vueComponent) 成员
+https://github.com/ajuner
+
 #### 桂继宏
+
+西安工作 SAP
