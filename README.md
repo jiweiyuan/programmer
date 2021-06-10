@@ -22,8 +22,9 @@
 |  主题                 |  主讲人 / 分享人      |       时间     |
 | :------------------: | :--------: | :--------------: |
 | 一起读 https://github.com/molnarg/node-http2 代码   | moonrailgun  pylon    |  2021-06-19 下午或晚上  |
-| Electron 开发分享 |   繁华落尽  | 2021-06-25 20:00 |
-| Chrome 插件开发分享 |  YuanJiwei | 2021-07-02 20:00 |
+| HTTP2 | Pylon| 2021-06-27 |
+| Electron 开发分享 |   繁华落尽  | 2021-07-02 20:00 |
+| https://github.com/moonrailgun/mini-star |  moonrailgun |
 
 
 ## 活动兴趣
@@ -32,12 +33,13 @@
 
 |  主题                 |  感兴趣的人 |
 | :------------------: |:------: |
+| Chrome 插件开发分享 |  YuanJiwei |
 | vue use| 袁继伟 |
 | vue3/reactivity 源码  | 袁继伟 Pylon|
 | vue3/runtime-core 源码 | 袁继伟 |
-| HTTP2 | Pylon|
 | JS Runtime |
 | severless |
+
 
 
 
