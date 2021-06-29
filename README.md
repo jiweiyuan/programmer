@@ -18,13 +18,14 @@
 ## 活动安排
 
 即将进行的分享 & 活动
+
 |  主题                 |  主讲人 / 分享人      |       时间     |
 | :------------------: | :--------: | :--------------: |
-| 一起读 https://github.com/molnarg/node-http2 代码   | moonrailgun  pylon    |  2021-06-19 下午或晚上  |
-| HTTP2 | Pylon| 2021-06-27 |
-| Electron 开发分享 |   繁华落尽  | 2021-07-02 20:00 |
-| https://github.com/moonrailgun/mini-star |  moonrailgun |
 
+| HTTP2 Push | Pylon|  |
+| Electron 开发分享 |   繁华落尽  |  |
+| https://github.com/moonrailgun/mini-star |  moonrailgun |
+| 数据结构：双向链表 | YuanJiwei |  |
 
 ## 活动兴趣
 
@@ -43,29 +44,49 @@
 
 
 ## 活动历史
+
 已经举办的分享/组织的活动
 
 |   主题  |        演讲者 / 组织者           |       时间       | 状态 | 录屏 |
 | :-------: | :-------------------: | :--------------: | :--: | :--: |
-|       防抖 节流  | YuanJiwei      | 2021/02/24 21:00 |  ✅   |      |
-|  作用域和执行上下文|   Pylon       | 2021/02/26 21:00 |  ✅   |      |
-|     `this`  指针 |    Vo           | 2021/02/28 21:00 |  ✅   |      |
-| Promise A+ 规范与实现|   Pylon    | 2021/03/07 21:00 |  ✅   |[记录](https://www.bilibili.com/video/BV1ov411b7yB)     |
-|       前端路由 | YuanJiwei        | 2021/03/12 21:00 |  ✅   |      |
-|  跨域 (CORS) 和 CSRF|   Pylon     | 2021/03/14 21:00 |  ✅   | [记录](https://www.bilibili.com/video/BV18N411X7HX)    |
-|    模块化：思想与原则| YuanJiwei   | 2021/03/19 21:00 |  ✅  |      |
-|     HTTP Caching|   Pylon         | 2021/03/21 21:00 |  ✅   | [记录](https://www.bilibili.com/video/BV17A411N7NG)   |
-| 前端问题闲聊 || All  2021/03/26 21:00 | ✅    |      |
-| HTTP/1.1 性能瓶颈分析 | Pylon  | 2021/03/28 21:00 |  ✅    |      |
-|  参与ant-design-vue项目的分享  | 吃不动了    |  2021/04/09       |    ✅    |  
-|  LeetCode 动态规划题目分享 | 桂继宏     |  2021/04/11       |    ✅    |  
-| VueX 源码阅读初次分享 | YuanJiwei |   2021/04/16 |  ✅    |   [记录](https://www.bilibili.com/video/BV1Vi4y1A72u) 
-|  Chrome Devtools  | Pylon    |  2021/05/15 21:00      |    ✅    |  [记录](https://www.bilibili.com/video/BV1WN411f7yW) 
-|  设计模式的设计原则 | 桂继宏     |  2021/05/09 21:00      |    ✅    |  
-| Vue Reactivity 核心原理 | YuanJiwei |  2021/05/15 21:00|  ✅  |
-|   vuejs/jsx-next 分享|  吃不动了       |  2021-05-21 20:00|  ✅    |  [记录](https://www.bilibili.com/video/BV18o4y1m7jD) 
-| react hook 分享           |  星光       |  2021-05-28 21:00|  ✅  
+| HTTP2 | Pylon| 2021-06-27 21:00 | ✅   |   [记录](https://www.bilibili.com/video/BV1j64y1973t/)     |
+| 一起读 https://github.com/molnarg/node-http2 代码   | moonrailgun  pylon    |  2021-06-19  |
 | 项目工程化实践 | moonrailgun   | 2021-06-06 20:00 | ✅  |  [记录](https://www.bilibili.com/video/BV1g5411M7HD/) 
+| react hook 分享           |  星光       |  2021-05-28 21:00|  ✅  
+|   vuejs/jsx-next 分享|  吃不动了       |  2021-05-21 20:00|  ✅    |  [记录](https://www.bilibili.com/video/BV18o4y1m7jD) 
+| Vue Reactivity 核心原理 | YuanJiwei |  2021/05/15 21:00|  ✅  |
+|  设计模式的设计原则 | 桂继宏     |  2021/05/09 21:00      |    ✅    |  
+|  Chrome Devtools  | Pylon    |  2021/05/15 21:00      |    ✅    |  [记录](https://www.bilibili.com/video/BV1WN411f7yW) 
+| VueX 源码阅读初次分享 | YuanJiwei |   2021/04/16 |  ✅    |   [记录](https://www.bilibili.com/video/BV1Vi4y1A72u) 
+|  LeetCode 动态规划题目分享 | 桂继宏     |  2021/04/11       |    ✅    |  
+|  参与ant-design-vue项目的分享  | 吃不动了    |  2021/04/09       |    ✅    |  
+| HTTP/1.1 性能瓶颈分析 | Pylon  | 2021/03/28 21:00 |  ✅    |      |
+| 前端问题闲聊 || All  2021/03/26 21:00 | ✅    |      |
+|     HTTP Caching|   Pylon         | 2021/03/21 21:00 |  ✅   | [记录](https://www.bilibili.com/video/BV17A411N7NG)   |
+|    模块化：思想与原则| YuanJiwei   | 2021/03/19 21:00 |  ✅  |      |
+|  跨域 (CORS) 和 CSRF|   Pylon     | 2021/03/14 21:00 |  ✅   | [记录](https://www.bilibili.com/video/BV18N411X7HX)    |
+|       前端路由 | YuanJiwei        | 2021/03/12 21:00 |  ✅   |      |
+| Promise A+ 规范与实现|   Pylon    | 2021/03/07 21:00 |  ✅   |[记录](https://www.bilibili.com/video/BV1ov411b7yB)     |
+|     `this`  指针 |    Vo           | 2021/02/28 21:00 |  ✅   |      |
+|  作用域和执行上下文|   Pylon       | 2021/02/26 21:00 |  ✅   |      |
+|       防抖 节流  | YuanJiwei      | 2021/02/24 21:00 |  ✅   |      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 进一步了解
 
