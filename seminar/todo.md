@@ -21,7 +21,7 @@
 
 #### Network
 
-- [c] HTTP 器缓存
+- [x] HTTP 器缓存
 - [ ] 输入一个 URL 后发生的事情（网络请求部分）
 - [ ] XSS
 - [x] HTTPS
