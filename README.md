@@ -1,4 +1,4 @@
-# [前端技术学习研讨](https://github.com/jiweiyuan/frontend)
+# [编程技术学习研讨会](https://github.com/xueyushu/frontend)
 
 > 一个人走的快，一群人走的远。
 >
@@ -8,11 +8,12 @@
 ## 介绍
 
 是一个编程技术学习、交流、分享的社群，目前组织以前端为主的技术交流。
-加入标准：**一年内,至少做一场技术分享,或者组织一次peer活动**。
+
+加入标准：**一年内,可以做一场技术分享,或者组织一次 peer 活动**。
 
 发起分享活动，可创建一个issue链接，便于知识沉淀。
 
-修改文档，可申请加入项目或者直接 Pull Request 即可。
+修改文档，可申请加入项目，或者直接 Pull Request 即可。
 
 
 ## 活动安排
@@ -22,9 +23,7 @@
 |  主题                 |  主讲人 / 分享人      |       时间     |
 | :------------------: | :--------: | :--------------: |
 | HTTP2 Push | Pylon|  |
-| Electron 开发分享 |   繁华落尽  |  |
-| https://github.com/moonrailgun/mini-star |  moonrailgun |
-| 数据结构：双向链表 | YuanJiwei |  |
+| 数据结构：树 | YuanJiwei |  |
 
 ## 活动兴趣
 
@@ -38,8 +37,7 @@
 | vue3/runtime-core 源码 | 袁继伟 |
 | JS Runtime |
 | severless |
-
-
+| https://github.com/moonrailgun/mini-star |  moonrailgun |
 
 
 ## 活动历史
@@ -48,6 +46,7 @@
 
 |   主题  |        演讲者 / 组织者           |       时间       | 状态 | 录屏 |
 | :-------: | :-------------------: | :--------------: | :--: | :--: |
+| Electron 开发分享 |   繁华落尽  | 2021-07-04 20:00 | ✅   |  |
 | HTTP2 | Pylon| 2021-06-27 21:00 | ✅   |   [记录](https://www.bilibili.com/video/BV1j64y1973t/)     |
 | 一起读 https://github.com/molnarg/node-http2 代码   | moonrailgun  pylon    |  2021-06-19  |
 | 项目工程化实践 | moonrailgun   | 2021-06-06 20:00 | ✅  |  [记录](https://www.bilibili.com/video/BV1g5411M7HD/) 
@@ -69,22 +68,6 @@
 |     `this`  指针 |    Vo           | 2021/02/28 21:00 |  ✅   |      |
 |  作用域和执行上下文|   Pylon       | 2021/02/26 21:00 |  ✅   |      |
 |       防抖 节流  | YuanJiwei      | 2021/02/24 21:00 |  ✅   |      |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## 进一步了解
