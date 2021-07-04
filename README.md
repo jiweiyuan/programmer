@@ -59,7 +59,7 @@
 |  LeetCode 动态规划题目分享 | 桂继宏     |  2021/04/11       |    ✅    |  
 |  参与ant-design-vue项目的分享  | 吃不动了    |  2021/04/09       |    ✅    |  
 | HTTP/1.1 性能瓶颈分析 | Pylon  | 2021/03/28 21:00 |  ✅    |      |
-| 前端问题闲聊 || All  2021/03/26 21:00 | ✅    |      |
+| 前端问题闲聊 |All|   2021/03/26 21:00 | ✅    |      |
 |     HTTP Caching|   Pylon         | 2021/03/21 21:00 |  ✅   | [记录](https://www.bilibili.com/video/BV17A411N7NG)   |
 |    模块化：思想与原则| YuanJiwei   | 2021/03/19 21:00 |  ✅  |      |
 |  跨域 (CORS) 和 CSRF|   Pylon     | 2021/03/14 21:00 |  ✅   | [记录](https://www.bilibili.com/video/BV18N411X7HX)    |
