@@ -37,7 +37,7 @@
 | vue3/runtime-core 源码 | 袁继伟 |
 | JS Runtime |
 | severless |
-| https://github.com/moonrailgun/mini-star |  moonrailgun |
+| [mini-star](https://github.com/moonrailgun/mini-star) |  moonrailgun |
 
 
 ## 活动历史
@@ -48,7 +48,7 @@
 | :-------: | :-------------------: | :--------------: | :--: | :--: |
 | Electron 开发分享 |   繁华落尽  | 2021-07-04 20:00 | ✅   |  |
 | HTTP2 | Pylon| 2021-06-27 21:00 | ✅   |   [记录](https://www.bilibili.com/video/BV1j64y1973t/)     |
-| 一起读 https://github.com/molnarg/node-http2 代码   | moonrailgun  pylon    |  2021-06-19  |
+| [node-http2](https://github.com/molnarg/node-http2)   | moonrailgun  pylon    |  2021-06-19  |
 | 项目工程化实践 | moonrailgun   | 2021-06-06 20:00 | ✅  |  [记录](https://www.bilibili.com/video/BV1g5411M7HD/) 
 | react hook 分享           |  星光       |  2021-05-28 21:00|  ✅  
 |   vuejs/jsx-next 分享|  吃不动了       |  2021-05-21 20:00|  ✅    |  [记录](https://www.bilibili.com/video/BV18o4y1m7jD) 
