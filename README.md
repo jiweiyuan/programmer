@@ -22,9 +22,9 @@
 
 | 主题       | 主讲人 / 分享人 | 时间             |
 |------------|-----------------|------------------|
-| HTTP2 Push | Pylon           | 2021-07-11 20:00 |
-| PMP (项目管理) 考试经验分享 | Freya |
-| 数据结构：树 | YuanJiwei |  |
+| 数据结构：堆和优先队列 | YuanJiwei | 2021-08-01 20:00 |
+| PMP (项目管理) 考试交流分享 | Freya | 2021-08-08 20:00 |
+
 
 ## 活动兴趣
 
@@ -48,6 +48,7 @@
 | 主题              | 演讲者 / 组织者 | 时间             | 状态 | 录屏                                                 |
 |-------------------|-----------------|------------------|------|------------------------------------------------------|
 | web components    | 付国强          | 2021-07-25 20:00 | ✅    | [记录](https://www.bilibili.com/video/BV1ow41197Az/) |
+| 前后端消息推送 | Pylon           | 2021-07-11 21:00 |  ✅  | [记录](https://www.bilibili.com/video/BV1Vv411E71v/) |
 | Electron 开发分享 | 繁华落尽        | 2021-07-04 20:00 | ✅    |                                                      |
 | HTTP2             | Pylon           | 2021-06-27 21:00 | ✅    | [记录](https://www.bilibili.com/video/BV1j64y1973t/) |
 | [node-http2](https://github.com/molnarg/node-http2)   | moonrailgun  pylon    |  2021-06-19  |
@@ -79,3 +80,4 @@
 - [主题](./seminar/todo.md)
 - [历史](./seminar/history.md)
 - [加入](./seminar/join.md)
+- [问答](./seminar/qa.md)
