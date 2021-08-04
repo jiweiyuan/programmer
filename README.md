@@ -22,8 +22,6 @@
 
 | 主题       | 主讲人 / 分享人 | 时间             |
 |------------|-----------------|------------------|
-| [go-nanoid](https://github.com/matoous/go-nanoid) | YuanJiwei | 2021-08-01 20:00 |
-| PMP (项目管理) 考试交流分享 | Freya | 2021-08-08 20:00 |
 
 
 ## 活动兴趣
@@ -39,6 +37,8 @@
 | JS Runtime |
 | severless |
 | [mini-star](https://github.com/moonrailgun/mini-star) |  moonrailgun |
+| [go-nanoid](https://github.com/matoous/go-nanoid) | YuanJiwei |  |
+| PMP (项目管理) 考试交流分享 | Freya | |
 
 
 ## 活动历史
