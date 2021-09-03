@@ -22,6 +22,8 @@
 
 | 主题       | 主讲人 / 分享人 | 时间             |
 |------------|-----------------|------------------|
+| [mini-star](https://github.com/moonrailgun/mini-star) |  moonrailgun | 2021-09-05 20:00 |
+| [esbuild](https://github.com/evanw/esbuild) | ajuner |   2021-09-12 20:00 |
 
 
 ## 活动兴趣
@@ -36,7 +38,6 @@
 | vue3/runtime-core 源码 | 袁继伟       |
 | JS Runtime |
 | severless |
-| [mini-star](https://github.com/moonrailgun/mini-star) |  moonrailgun |
 | [go-nanoid](https://github.com/matoous/go-nanoid) | YuanJiwei |  |
 | PMP (项目管理) 考试交流分享 | Freya | |
 
