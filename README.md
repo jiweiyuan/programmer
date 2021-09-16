@@ -22,8 +22,8 @@
 
 | 主题       | 主讲人 / 分享人 | 时间             |
 |------------|-----------------|------------------|
-| [mini-star](https://github.com/moonrailgun/mini-star) |  moonrailgun | 2021-09-05 20:00 |
-| [esbuild](https://github.com/evanw/esbuild) | ajuner |   2021-09-12 20:00 |
+| TypeScript 实践分享 | Freya  | 待定 |
+| 《Code Complete》读书分享 | YuanJiwei | 待定 |
 
 
 ## 活动兴趣
@@ -48,6 +48,8 @@
 
 | 主题              | 演讲者 / 组织者 | 时间             | 状态 | 录屏                                                 |
 |-------------------|-----------------|------------------|------|------------------------------------------------------|
+| [esbuild](https://github.com/evanw/esbuild) | ajuner |   2021-09-12 20:00 |✅ |
+| [mini-star](https://github.com/moonrailgun/mini-star) |  moonrailgun | 2021-09-05 20:00 |✅  |
 | web components    | 付国强          | 2021-07-25 20:00 | ✅    | [记录](https://www.bilibili.com/video/BV1ow41197Az/) |
 | 前后端消息推送 | Pylon           | 2021-07-11 21:00 |  ✅  | [记录](https://www.bilibili.com/video/BV1Vv411E71v/) |
 | Electron 开发分享 | 繁华落尽        | 2021-07-04 20:00 | ✅    |                                                      |
